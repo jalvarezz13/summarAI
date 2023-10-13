@@ -5,11 +5,12 @@ name = "pypi"
 
 [packages]
 ffmpeg = "*"
+llama-cpp-python = "*"
 llama-index = "*"
 moviepy = "*"
 openai-whisper = "*"
-python-dotenv = "*"
-llama-cpp-python = "*"
+torch = "*"
+transformers = "*"
 
 [dev-packages]
 
